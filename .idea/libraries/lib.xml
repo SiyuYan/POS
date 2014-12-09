@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-core-1.9.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.9-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-1.9.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-1.9.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
